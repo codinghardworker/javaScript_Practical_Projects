@@ -1,0 +1,24 @@
+{
+  "name": "rock-paper-scissors",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "random-int": "^3.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codinghardworker/javaScript_Practical_Projects.git"
+  },
+  "bugs": {
+    "url": "https://github.com/codinghardworker/javaScript_Practical_Projects/issues"
+  },
+  "homepage": "https://github.com/codinghardworker/javaScript_Practical_Projects#readme",
+  "description": ""
+}
